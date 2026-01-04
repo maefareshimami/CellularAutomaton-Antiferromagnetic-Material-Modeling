@@ -1,5 +1,5 @@
 # Cellular Automaton - Antiferromagnetic Material Modeling
-> If you use my code or a part of it for your projects, thank for quoting me!
+> If you use my code or a part of it for your projects, thank you for quoting me!
 
 I represent a antiferromagnetic material by a 2D matrix with spin up (value +1) and spin down (value -1) of electrons.
 You can choose a matrix, for instance a random matrix, which is created and another is computed using the Boltzmann distribution.
