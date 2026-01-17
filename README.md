@@ -4,7 +4,7 @@
 I represent a antiferromagnetic material by a 2D matrix with spin up (value +1) and spin down (value -1) of electrons.
 You can choose a matrix, for instance a random matrix, which is created and another is computed using the Boltzmann distribution.
 Then, I compute the average magnetization I define as the average value of all spins.
-Finally, I show the two matrices in a txt file properly.
+Finally, I show the two matrices in a txt file properly and on a graphic.
 
 ## Protocol
 Put all files in a same folder and write `python main.py` in your terminal.
